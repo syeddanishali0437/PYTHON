@@ -3,7 +3,7 @@
 
 
 
-### GIT HUB URL ::::--- " https://github.com/DanishAli-MRU/PYTHON.git " ; GIT HUB USER NAME : :- " DanishAli-MRU " ; danishali0437@gmail.com ;
+### GIT HUB URL ::::---  https://github.com/DanishAli-MRU/PYTHON.git  ; GIT HUB USER NAME : :- " DanishAli-MRU " ; danishali0437@gmail.com ;
 
 ''' FULL LAB FROM JAN TO MAY '''
 
